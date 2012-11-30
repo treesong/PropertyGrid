@@ -1,4 +1,4 @@
 PropertyGrid
 ============
 
-PropertyGrid for Web by Java
+PropertyGrid for JSP/Servlet
